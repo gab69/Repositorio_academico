@@ -1,1 +1,1 @@
-demo:https://portafolio-acedemico-gab.netlify.app/
+demo:https://portafolio-academico-gab.netlify.app/
